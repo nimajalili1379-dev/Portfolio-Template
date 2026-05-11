@@ -10,6 +10,8 @@ A clean, minimalist, and responsive portfolio for Web Developers.
 ## 🛠️ Tech Stack
 * HTML5 & CSS3
 
-## 📥 Setup
-```bash
-git clone [https://github.com/nimajalili1379-dev/Portfolio-Template.git](https://github.com/nimajalili1379-dev/Portfolio-Template.git)
+## 🌐 Live Demo
+[Click here to view the website](https://nimajalili1379-dev.github.io/Portfolio-Template)
+
+---
+Built by Nima
